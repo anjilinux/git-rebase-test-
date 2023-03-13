@@ -2,8 +2,8 @@ a = 3
 b = 5 
 c = 8
 
-#dve1 
 
 d = a + b = 8 = c 
 
 
+a + b = 8 = c  # by dev
