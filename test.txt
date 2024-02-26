@@ -1,3 +1,5 @@
 
 a =apple
 b= boy
+
+c=cat
